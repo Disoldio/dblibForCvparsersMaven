@@ -1,0 +1,9 @@
+org\example\DAO.class
+org\example\ResultSetProcessor.class
+org\example\PreparedStatementFiller.class
+org\example\DefaultResultSetProcessor.class
+org\example\Entity.class
+org\example\SQLBuilder.class
+org\example\EntityRepository.class
+org\example\Table.class
+org\example\Column.class
